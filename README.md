@@ -1,5 +1,5 @@
 
-# Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
+## Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
 ### Aim :
 
